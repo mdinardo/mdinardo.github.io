@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SUCK IT BITCH
+title: Example Page
 permalink: /example
 ---
 
