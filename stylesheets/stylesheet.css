@@ -456,7 +456,6 @@ header {
 }
 
 header h1 {
-  width: 540px;
   margin-top: 0;
   margin-bottom: 0.2em;
   font-size: 72px;
@@ -467,7 +466,6 @@ header h1 {
 }
 
 header h2 {
-  width: 540px;
   margin-top: 0;
   margin-bottom: 0;
   font-size: 26px;
@@ -486,11 +484,6 @@ header h2 {
 #content-wrapper {
   padding-top: 30px;
   border-top: solid 1px #fff;
-}
-
-#main-content {
-  float: left;
-  width: 690px;
 }
 
 #main-content img {
@@ -781,17 +774,11 @@ footer a:hover {
   .inner {
     width: 740px;
   }
-  header h1, header h2 {
-    width: 340px;
-  }
   header h1 {
     font-size: 60px;
   }
   header h2 {
     font-size: 30px;
-  }
-  #main-content {
-    width: 490px;
   }
   #main-content h1:before,
   #main-content h2:before,
